@@ -3,6 +3,6 @@ public class HelloWorldGit {
       // Prints "Hello, World" in the terminal window.
       System.out.println("Hello, World dfdfd");
       System.out.println("Hello, My First Giiiit ");
-      System.out.println("Hello, My New");
+      System.out.println("Hello, My New       vbvb");
    }
 }
